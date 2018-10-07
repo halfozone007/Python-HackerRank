@@ -69,17 +69,6 @@ def readData():
     
     return inputdataList
 
-    
-
-
-
-       
-           
-             
-
-            
-            
-
 def main():
     
     #read the data 
